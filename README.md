@@ -1,4 +1,5 @@
-![logo](https://raw.githubusercontent.com/SiddTheCoder/siddthecoder-readme/main/channels4_banner.jpg)
+![logo](https://github.com/SiddTheCoder/SiddTheCoder/blob/main/Channel-ezgif.com-crop%20(1).gif?raw=true)
+
 <hr>
 
 <h1 align="center">Yo 👋, I'm Siddhant Yadav</h1>
