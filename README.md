@@ -5,9 +5,9 @@
 
 
 ### 📌 Featured Work
-- 🛒 **E-Commerce Platform** — [Anbari](https://www.anbari.netlify.app/)
-- 🏆 **Hackathon Winner** — [MoodMate](https://www.moodemate.netlify.app/)
-- 💼 **Portfolio** — [siddhantyadav.com.np](https://www.siddhantyadav.com.np/)
+- 🛒 **E-Commerce Platform** — [Anbari](anbari.netlify.app/)
+- 🏆 **Hackathon Winner** — [MoodMate](moodemate.netlify.app/)
+- 💼 **Portfolio** — [siddhantyadav.com.np](siddhantyadav.com.np/)
 
 ---
 
