@@ -1,7 +1,7 @@
 
 <h1 align="center">Yo 👋, I'm Siddhant Yadav</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&weight=500&size=24&pause=1000&width=445&height=65&lines=I+CODE+AS+FULL-STACK+DEVELOPER" alt="Typing SVG" /></a></h3>
-<h3 align="center">A versatile and in-demand developer from Nepal</h3>
+<h3 align="center">A versatile and in-demand Web(MERN | NEXT.js) && App(React Native) developer from Nepal</h3>
 
 
 ### 📌 Featured Work
